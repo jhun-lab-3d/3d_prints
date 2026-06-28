@@ -1,0 +1,4 @@
+Material type
+1) Tires - TPU
+2) Rims - PLA
+3) Hub cover - PLA
